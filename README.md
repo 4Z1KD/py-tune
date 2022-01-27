@@ -14,5 +14,10 @@ tuning script for tuner-less transmitters 📻
 # usage 🚀
 launch pytune.bat (this will activate the venv and run the script)
 
+# how it works? 🐜
+the script uses omnirig to send a ptt command to Rig1.
+it then plays a 800hz tone through the 2nd output sound device in the device list (assuming this device is the one connected to the radio).
+after a 5 seconds delay, it releases the ptt and stops playing the tone.
+
 73,<br/>
 Gil 4Z1KD
