@@ -1,4 +1,4 @@
-# pytune 🌺
+# pytune 🎼
 tuning script for tuner-less transmitters 📻
 
 # prerequisite 🖐️
