@@ -1,4 +1,4 @@
-# pytune ![32whistle](https://user-images.githubusercontent.com/24712835/151493581-81fa55cc-f204-4967-83ad-dd238de3571d.png)
+# py-tune ![32whistle](https://user-images.githubusercontent.com/24712835/151493581-81fa55cc-f204-4967-83ad-dd238de3571d.png)
 
 tuning script for tuner-less transmitters 📻
 
